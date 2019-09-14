@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../data/speaking.svg</file>
+        <file>../data/talking.svg</file>
+        <file>../data/netconnect.png</file>
+        <file>../data/save.png</file>
+        <file>../data/speaking.png</file>
+        <file>../data/hexchat_de.qm</file>
+        <file>../data/logo.png</file>
+        <file>../data/flagen/de.png</file>
+        <file>../data/flagen/es.png</file>
+        <file>../data/flagen/fr.png</file>
+        <file>../data/flagen/gb.png</file>
+        <file>../data/flagen/it.png</file>
+    </qresource>
+</RCC>
